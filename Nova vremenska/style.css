@@ -1,0 +1,5 @@
+.wrapper {width: 100%;}
+.wrapper .wrapper-holder{width: 100%; max-width: 500px; min-height: 500px; margin:auto; background: url(images/vreme.jpg) no-repeat; background-size: 100%; }
+.wrapper .wrapper-holder h1 {text-align: center; font-size: 20px; padding-top: 30px; font-weight: bold; color: white;}
+.wrapper .wrapper-holder #myImg {position: relative;left: 180px;}
+#btnPrikazi {margin-left: 20px;}
