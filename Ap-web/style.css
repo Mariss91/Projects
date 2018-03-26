@@ -1,0 +1,56 @@
+* {margin: 0; padding: 0; list-style: none;}
+.clear {clear: both; display: block;}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500&subset=latin-ext');
+.first {width: 100%; background: #f9f9f9;}
+.first .first-holder {width: 100%; max-width: 1000px; margin: auto; background-color: #f9f9f9;}
+.first .first-holder nav {float: right;}
+.first .first-holder nav ul li {float: left; display: inline-block; padding:5px 0 10px 0;}
+.first .first-holder nav ul li a {text-decoration: none;font-family: 'Montserrat', sans-serif; color: gray; word-spacing: 5px; text-transform: uppercase; font-size: 12px;}
+.logo-holder {clear: both; display: inline-block;}
+.logo-holder img {display: inline-block;}
+.logo-holder {float: left;}
+.button-holder {float: right; padding-top: 15px;}
+.button-holder a {display: inline-block; padding: 10px;font-family: 'Montserrat', sans-serif; color: gray; text-decoration: none; text-transform: uppercase; font-size: 14px; vertical-align: top;}
+.button-holder .f {width: 100px; height: 30px; background-color:#575656; color: white; padding: 11px 30px;}
+.button-holder .f {text-align: center;}
+.button-holder .s {padding: 10px 30px; text-decoration: none; border:1px solid #575656; vertical-align: top; height: 30px;}
+.button-holder .t {padding: 10px 30px; text-decoration: none; border:1px solid #575656; vertical-align: top; height: 30px;}
+
+.nav-two {clear: both; width: 100%;}
+.nav-two {width: 100%; background-color: #f2f2f2; overflow: hidden;}
+.nav-two-holder {width: 100%; max-width: 1000px; margin: auto;}
+.nav-left nav {float: left;}
+.nav-left nav ul li {float: left; display: inline-block; padding: 10px;}
+.nav-left nav ul li a {text-decoration: none;font-family: 'Montserrat', sans-serif; color: gray; font-size: 14px; line-height: 14px; text-transform: uppercase; word-spacing: 10px;}
+.pic-two-holder {float: right;}
+.pic-two-holder img {padding: 5px 2px;}
+
+.slider {clear: both; width: 100%;}
+.slider .slider-holder {width: 100%; max-width: 1000px; margin: auto;}
+
+.pictures {clear: both; width: 100%;background: #f9f9f9;}
+.pictures .pictures-holder {width: 100%; max-width: 1000px; margin: auto; background: #f9f9f9;}
+.pictures .pictures-holder ul li {display: inline-block; margin-left: 5px; margin-bottom: 20px;}
+.pictures .pictures-holder ul li:nth-child(1){background:#53bdb3; border: 5px solid #53bdb3;}
+.pictures .pictures-holder ul li:nth-child(2){background:pink;border: 5px solid pink;}
+.pictures .pictures-holder ul li:nth-child(3){background:aqua;border: 5px solid aqua;}
+.pictures .pictures-holder ul li:nth-child(4){background:#5594b5;border: 5px solid #5594b5;}
+.pictures .pictures-holder ul li:nth-child(5){background:#d779ae;border: 5px solid #d779ae;}
+.pictures .pictures-holder ul li a {color: white; text-decoration: none; text-align: center; text-transform: uppercase; text-align: left;font-family: 'Montserrat', sans-serif; font-size: 15px; font-weight: bold;}
+.pictures .pictures-holder ul li a:hover {opacity: 0.8;}
+
+.tree {clear: both; width: 100%; background: #f2f2f2;}
+.tree .tree-holder {width: 100%; max-width: 1000px; margin: auto;}
+.tree .tree-holder img { margin-top: 20px; margin-right: 7px; margin-bottom: 20px;}
+
+footer {clear: both; width: 100%; background: #575656;}
+footer .footer-holder {width: 100%; max-width: 1000px; margin: auto;background: #575656; overflow: hidden;}
+hr {padding-top: 20px;}
+footer .footer-holder .left {float: left;}
+footer .footer-holder .one {display: inline-block; padding: 10px; vertical-align: top;}
+footer .footer-holder .one h5 {color: white; font-family: 'Montserrat', sans-serif; font-size: 19px; margin-bottom: 10px; margin-top: 5px;}
+footer .footer-holder .one ul li a {color: white; text-decoration: none;font-family: 'Montserrat', sans-serif; font-size: 15px;}
+footer .footer-holder .right {float: right;}
+footer .footer-holder .right img {padding: 10px;}
+footer .footer-holder .right p { color: white;font-family: 'Montserrat', sans-serif; text-align: right;}
+
